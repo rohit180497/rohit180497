@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!-- Centering the image using HTML -->
 <div align="center">
-  <img src="port.png" alt="alt text" style="width: 200px;">
+  <img src="port.png" alt="alt text" style="width: 700px;">
 </div>
 
 ## About Me
