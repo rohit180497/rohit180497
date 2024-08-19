@@ -1,28 +1,28 @@
 ## Hi there 👋
-
-![alt text](port.png)
-
-I am a data science professional with 5 years of experience and a strong academic foundation, including a Master’s in Data Analytics from Northeastern University. Currently, I serve as a Graduate Research Assistant Data Scientist at the Northeastern DATA Initiative. My expertise spans advanced machine learning models, deep learning, NLP, large language models, and big data management. I am proficient in Python, R, SQL, HTML, CSS, and cloud platforms such as Azure and AWS, alongside tools like Advanced Excel, Tableau, and Docker. My work across industries including insurance, banking, and real estate has consistently optimized business processes, developed AI-driven models, and delivered actionable insights to enhance efficiency and performance.
+<!-- Centering the image using HTML -->
+<div align="center">
+  <img src="port.png" alt="alt text" style="width: 200px;">
+</div>
 
 ## About Me
 
 - **Current Role**: Graduate Research Assistant Data Scientist at the Northeastern DATA Initiative
 - **Location**: Boston, Massachusetts, USA
-- **Interests**: Machine Learning, Data Science, Large Language Models, Deep learning, Open-Source Projects
+- **Interests**: Machine Learning, Data Science, Large Language Models, Deep Learning, Open-Source Projects
 
+## 🛠️ Tools
 
-🛠️ Tools
-•	Language: Python, SQL, HTML, CSS
-•	Database: MySQL, Google BigQuery, Azure, AWS
-•	Visualization: Tableau, Looker Studio, PowerBI
-•	Concepts: Big Data, Text Mining, Predictive Modeling, Recommender Systems, Clustering
-•	Software: Docker, Hadoop, Postman, Jira, GitHub, Advanced Excel, Databricks, Sagemaker  
-•	Certifications:
-    1.	Databricks Generative AI
-    2.	Oracle Certified Generative AI Professional 2024
-    3.	Azure Fundamentals
-    4.	Gemini API by Google
-    5.	JPMorgan Chase – Investment Banking Job Simulation
+- **Language**: Python, SQL, HTML, CSS
+- **Database**: MySQL, Google BigQuery, Azure, AWS
+- **Visualization**: Tableau, Looker Studio, PowerBI
+- **Concepts**: Big Data, Text Mining, Predictive Modeling, Recommender Systems, Clustering
+- **Software**: Docker, Hadoop, Postman, Jira, GitHub, Advanced Excel, Databricks, Sagemaker  
+- **Certifications**:
+  1. Databricks Generative AI
+  2. Oracle Certified Generative AI Professional 2024
+  3. Azure Fundamentals
+  4. Gemini API by Google
+  5. JPMorgan Chase – Investment Banking Job Simulation
 
 <!--
 **rohit180497/rohit180497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
