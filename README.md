@@ -24,6 +24,23 @@
   4. Gemini API by Google
   5. JPMorgan Chase – Investment Banking Job Simulation
 
+## 💬 Ask me about ...
+- Data Science, Machine Learning, and AI applications
+- Large Language Models and Deep Learning
+- Open-source contributions and projects
+- Career in Data Science and Research
+
+## 📫 How to reach me:
+- Email: [kosamkar.r@northeastern.edu](mail to: kosamkar.r@northeastern.edu)
+- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/rohit-kosamkar-177399195/)
+- Twitter: [Follow me on Twitter](https://x.com/rohitkosamkar18)
+
+## 😄 Pronouns: 
+- He/Him 
+
+## ⚡ Fun fact:
+-  When I'm not training models, I'm training for marathons! Running helps me clear my mind and come up with new data science ideas.
+
 <!--
 **rohit180497/rohit180497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
