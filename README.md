@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![alt text](image.png)
+![alt text](port.png)
 
 I am a data science professional with 5 years of experience and a strong academic foundation, including a Master’s in Data Analytics from Northeastern University. Currently, I serve as a Graduate Research Assistant Data Scientist at the Northeastern DATA Initiative. My expertise spans advanced machine learning models, deep learning, NLP, large language models, and big data management. I am proficient in Python, R, SQL, HTML, CSS, and cloud platforms such as Azure and AWS, alongside tools like Advanced Excel, Tableau, and Docker. My work across industries including insurance, banking, and real estate has consistently optimized business processes, developed AI-driven models, and delivered actionable insights to enhance efficiency and performance.
 
