@@ -39,7 +39,7 @@
 - He/Him 
 
 ## ⚡ Fun fact:
--  When I'm not training models, I'm training for marathons! Running helps me clear my mind and come up with new data science ideas.
+-  When I'm not training models, I'm training my arms at the gym! I enjoy pushing my limits with weightlifting and staying strong both mentally and physically.
 
 <!--
 **rohit180497/rohit180497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
