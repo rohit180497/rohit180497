@@ -10,16 +10,18 @@
 - **Location**: Boston, Massachusetts, USA
 - **Interests**: Machine Learning, Data Science, Large Language Models, Deep Learning, Open-Source Projects
 
-## 📦 My Published Package
+## 📦 My Published Packages
 - Check out my Python package EDAExcelReport (https://pypi.org/project/EDAExcelReport/) your go-to tool for effortless exploratory data analysis (EDA). With just a single line of code, you can generate comprehensive Excel reports, complete with statistics and visualizations, tailored for datasets with binary target variables. Simplify your EDA process today!
+
+- Designed and published MLEssentials on PyPI, providing a one-stop solution for machine learning development by resolving version compatibility issues across libraries. Simplifies model building and deployment—just install via pip and start developing without dependency conflicts. (https://pypi.org/project/MLEssentials/)
 
 ## 🛠️ Tools
 
 - **Language**: Python, SQL, HTML, CSS
 - **Database**: MySQL, Google BigQuery, Azure, AWS
 - **Visualization**: Tableau, Looker Studio, PowerBI
-- **Concepts**: Big Data, Text Mining, Predictive Modeling, Recommender Systems, Clustering
-- **Software**: Docker, Hadoop, Postman, Jira, GitHub, Advanced Excel, Databricks, Sagemaker  
+- **Concepts**: Big Data, Text Mining, Predictive Modeling, Recommender Systems, Clustering, CI/CD
+- **Software**: Docker, Hadoop, Postman, Jira, GitHub, Advanced Excel, Databricks, Sagemaker, Azure DevOps, Azure Machine Learning  
 - **Certifications**:
   1. Databricks Generative AI
   2. Oracle Certified Generative AI Professional 2024
@@ -34,7 +36,7 @@
 - Career in Data Science and Research
 
 ## 📫 How to reach me:
-- Email: [kosamkar.r@northeastern.edu](mail to: kosamkar.r@northeastern.edu)
+- Email: [kosamkar.r@northeastern.edu]
 - LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/rohit-kosamkar-177399195/)
 - Twitter: [Follow me on Twitter](https://x.com/rohitkosamkar18)
 
