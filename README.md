@@ -8,7 +8,7 @@
 
 - **Current Role**: Graduate Research Assistant Data Scientist at the Northeastern DATA Initiative
 - **Location**: Boston, Massachusetts, USA
-- **Interests**: Machine Learning, Data Science, Large Language Models, Deep Learning, Open-Source Projects
+- **Interests**: Machine Learning, Data Science, Large Language Models, MLOps,  Deep Learning, Open-Source Projects
 
 ## 📦 My Published Packages
 - Check out my Python package EDAExcelReport (https://pypi.org/project/EDAExcelReport/) your go-to tool for effortless exploratory data analysis (EDA). With just a single line of code, you can generate comprehensive Excel reports, complete with statistics and visualizations, tailored for datasets with binary target variables. Simplify your EDA process today!
