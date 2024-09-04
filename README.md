@@ -21,7 +21,7 @@
 - **Database**: MySQL, Google BigQuery, Azure, AWS
 - **Visualization**: Tableau, Looker Studio, PowerBI
 - **Concepts**: Big Data, Text Mining, Predictive Modeling, Recommender Systems, Clustering, CI/CD
-- **Software**: Docker, Hadoop, Postman, Jira, GitHub, Advanced Excel, Databricks, Sagemaker, Azure DevOps, Azure Machine Learning  
+- **Software**: Docker, Hadoop, Postman, Jira, GitHub, Advanced Excel, Databricks, Sagemaker, Azure DevOps, Azure Machine Learning, Jenkins  
 - **Certifications**:
   1. Databricks Generative AI
   2. Oracle Certified Generative AI Professional 2024
