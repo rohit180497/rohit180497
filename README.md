@@ -15,12 +15,14 @@
 
 - Designed and published MLEssentials on PyPI, providing a one-stop solution for machine learning development by resolving version compatibility issues across libraries. Simplifies model building and deployment—just install via pip and start developing without dependency conflicts. (https://pypi.org/project/MLEssentials/)
 
+- Designed and published WebScrapingTool on PyPI, to simplify the installation of essential web scraping libraries. With just one command, you can have access to all the major libraries needed to build and run web scrapers efficiently. (https://pypi.org/project/WebScrapingTool/)
+
 ## 🛠️ Tools
 
 - **Language**: Python, SQL, HTML, CSS
 - **Database**: MySQL, Google BigQuery, Azure, AWS
 - **Visualization**: Tableau, Looker Studio, PowerBI
-- **Concepts**: Big Data, Text Mining, Predictive Modeling, Recommender Systems, Clustering, CI/CD
+- **Concepts**: Big Data, Predictive Modeling, Recommender Systems, Web Scraping, Clustering, CI/CD, 
 - **Software**: Docker, Hadoop, Postman, Jira, GitHub, Advanced Excel, Databricks, Sagemaker, Azure DevOps, Azure Machine Learning, Jenkins  
 - **Certifications**:
   1. Databricks Generative AI
