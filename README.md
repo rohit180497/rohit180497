@@ -22,7 +22,7 @@
 - **Language**: Python, SQL, HTML, CSS
 - **Database**: MySQL, Google BigQuery, Azure, AWS
 - **Visualization**: Tableau, Looker Studio, PowerBI, RShiny
-- **Concepts**: Big Data, Predictive Modeling, Recommender Systems, Web Scraping, Clustering, CI/CD, 
+- **Concepts**: Big Data, Predictive Modeling, Recommender Systems, Web Scraping, Clustering, CI/CD
 - **Software**: Docker, Hadoop, Postman, Jira, GitHub, Advanced Excel, Databricks, Sagemaker, Azure DevOps, Azure Machine Learning, Jenkins  
 - **Certifications**:
   1. Databricks Generative AI
