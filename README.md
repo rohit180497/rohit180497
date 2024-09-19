@@ -19,11 +19,12 @@
 
 ## 🛠️ Tools
 
-- **Language**: Python, SQL, HTML, CSS
-- **Database**: MySQL, Google BigQuery, Azure, AWS
-- **Visualization**: Tableau, Looker Studio, PowerBI, RShiny
-- **Concepts**: Big Data, Predictive Modeling, Recommender Systems, Web Scraping, Clustering, CI/CD
-- **Software**: Docker, Hadoop, Postman, Jira, GitHub, Advanced Excel, Databricks, Sagemaker, Azure DevOps, Azure Machine Learning, Jenkins  
+- **𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞:** Python, R, SQL, HTML, CSS
+- **𝐂𝐥𝐨𝐮𝐝 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬:** Azure, AWS
+- **𝐃𝐚𝐭𝐚 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 & 𝐁𝐈 𝐓𝐨𝐨𝐥𝐬:** Power BI, Tableau, R Shiny, Advanced Excel
+- **𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐁𝐢𝐠 𝐃𝐚𝐭𝐚 𝐓𝐨𝐨𝐥𝐬:** Databricks, Docker, Hadoop, Git, Jenkins, Kubernetes
+- **𝐌𝐋𝐎𝐩𝐬 𝐚𝐧𝐝 𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭:** Azure DevOps, Jenkins, Flask, FastAPI, Azure Data Factory, Azure App Services, Uvicorn Server, AzureML, MLflow 
+
 - **Certifications**:
   1. Databricks Generative AI
   2. Oracle Certified Generative AI Professional 2024
