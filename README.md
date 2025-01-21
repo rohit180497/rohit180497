@@ -19,14 +19,15 @@ Currently, I am a Graduate Research Assistant Data Scientist at the Northeastern
 
 - **Programming Language** Python, R, SQL, HTML, CSS
 - **Cloud Platforms:** Azure, AWS
-- **Machine Learning & Deep Learning:** Regression, Classification, CNN, LSTM, RNN, Transformers
+- **Machine Learning & Deep Learning:** Regression, Classification, CNN, LSTM, RNN, Transformers, Pytorch
 - **Big Data Tools** Databricks, Hadoop, Pyspark, Azure Data Factory
 - **MLOps and Deployment:** Azure DevOps, Jenkins, Flask, FastAPI, Docker, Kubernetes, Azure App Services, AzureML, MLflow 
 - **Gen AI Frameworks:** LlamaIndex, Langchain, Azure OpenAI, AI-Agents, Hugging face
 
 🐳🤖🚢🌐🔄 🦙📚 🤗
 
-- **Certifications**:
+## 📜Certifications
+
   1. Databricks Generative AI
   2. Oracle Certified Generative AI Professional 2024
   3. Azure Fundamentals
