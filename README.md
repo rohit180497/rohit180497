@@ -1,8 +1,4 @@
 ## Hi there 👋
-<!-- Centering the image using HTML -->
-<div align="center">
-  <img src="port.png" alt="alt text" style="width: 550px;">
-</div>
 
 ## About Me
 
@@ -10,12 +6,6 @@
 - **Location**: Boston, Massachusetts, USA
 - **Interests**: Machine Learning, Data Science, Large Language Models, MLOps,  Deep Learning, Open-Source Projects
 
-## 📦 My Published Packages
-- Check out my Python package EDAExcelReport (https://pypi.org/project/EDAExcelReport/) your go-to tool for effortless exploratory data analysis (EDA). With just a single line of code, you can generate comprehensive Excel reports, complete with statistics and visualizations, tailored for datasets with binary target variables. Simplify your EDA process today!
-
-- Designed and published MLEssentials on PyPI, providing a one-stop solution for machine learning development by resolving version compatibility issues across libraries. Simplifies model building and deployment—just install via pip and start developing without dependency conflicts. (https://pypi.org/project/MLEssentials/)
-
-- Designed and published WebScrapingTool on PyPI, to simplify the installation of essential web scraping libraries. With just one command, you can have access to all the major libraries needed to build and run web scrapers efficiently. (https://pypi.org/project/WebScrapingTool/)
 
 ## 🛠️ Tools
 
@@ -48,6 +38,15 @@
 
 ## ⚡ Fun fact:
 -  When I'm not training models, I'm training my arms at the gym! I enjoy pushing my limits with weightlifting and staying strong both mentally and physically.
+
+
+## 📦 My Published Packages
+- Check out my Python package EDAExcelReport (https://pypi.org/project/EDAExcelReport/) your go-to tool for effortless exploratory data analysis (EDA). With just a single line of code, you can generate comprehensive Excel reports, complete with statistics and visualizations, tailored for datasets with binary target variables. Simplify your EDA process today!
+
+- Designed and published MLEssentials on PyPI, providing a one-stop solution for machine learning development by resolving version compatibility issues across libraries. Simplifies model building and deployment—just install via pip and start developing without dependency conflicts. (https://pypi.org/project/MLEssentials/)
+
+- Designed and published WebScrapingTool on PyPI, to simplify the installation of essential web scraping libraries. With just one command, you can have access to all the major libraries needed to build and run web scrapers efficiently. (https://pypi.org/project/WebScrapingTool/)
+
 
 <!--
 **rohit180497/rohit180497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
