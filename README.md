@@ -15,7 +15,7 @@ Currently, I am a Graduate Research Assistant Data Scientist at the Northeastern
   Successfully implemented data science solutions in Insurance, Banking, and Real Estate domains.
   Delivered AI-driven insights that transformed business operations and enhanced performance.
 
-## 🛠️ Tools
+## 🛠️ Tools 🐳🤖🚢🌐🔄 🦙📚 🤗
 
 - **Programming Language** Python, R, SQL, HTML, CSS
 - **Cloud Platforms:** Azure, AWS
@@ -23,16 +23,6 @@ Currently, I am a Graduate Research Assistant Data Scientist at the Northeastern
 - **Big Data Tools** Databricks, Hadoop, Pyspark, Azure Data Factory
 - **MLOps and Deployment:** Azure DevOps, Jenkins, Flask, FastAPI, Docker, Kubernetes, Azure App Services, AzureML, MLflow 
 - **Gen AI Frameworks:** LlamaIndex, Langchain, Azure OpenAI, AI-Agents, Hugging face
-
-🐳🤖🚢🌐🔄 🦙📚 🤗
-
-## 📜Certifications
-
-  1. Databricks Generative AI
-  2. Oracle Certified Generative AI Professional 2024
-  3. Azure Fundamentals
-  4. Gemini API by Google
-  5. JPMorgan Chase – Investment Banking Job Simulation
 
 ## 💼 Open to Roles
 
@@ -44,6 +34,14 @@ I am actively looking for opportunities in:
 - Generative AI Engineer
 - Machine Learning Researcher
 - Data Science Specialist
+
+## 📜Certifications
+
+  1. Databricks Generative AI
+  2. Oracle Certified Generative AI Professional 2024
+  3. Azure Fundamentals
+  4. Gemini API by Google
+  5. JPMorgan Chase – Investment Banking Job Simulation
 
 ## 💬 Ask me about ...
 - Data Science, Machine Learning, and AI applications
