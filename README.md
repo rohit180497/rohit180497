@@ -28,12 +28,12 @@ Currently, I am a Graduate Research Assistant Data Scientist at the Northeastern
 
 I am actively looking for opportunities in:
 
-- Machine Learning Engineer
-- Data Scientist
-- AI Engineer
-- Generative AI Engineer
-- Machine Learning Researcher
-- Data Science Specialist
+  - Machine Learning Engineer
+  - Data Scientist
+  - AI Engineer
+  - Generative AI Engineer
+  - Machine Learning Researcher
+  - Data Science Specialist
 
 ## 📜Certifications
 
