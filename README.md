@@ -1,22 +1,28 @@
-## Hi there 👋
-I am a data science professional with 5 years of experience and a strong academic foundation, including a Master’s in Data Analytics from Northeastern University. Currently, I serve as a 𝐆𝐫𝐚𝐝𝐮𝐚𝐭𝐞 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 Data Scientist at the 𝐍𝐨𝐫𝐭𝐡𝐞𝐚𝐬𝐭𝐞𝐫𝐧 𝐃𝐀𝐓𝐀 𝐈𝐧𝐢𝐭𝐢𝐚𝐭𝐢𝐯𝐞. 
+## 💻 Welcome to My GitHub Profile! 👋
 
-I have integrated machine learning models seamlessly into business operations across industries like 𝐈𝐧𝐬𝐮𝐫𝐚𝐧𝐜𝐞, 𝐁𝐚𝐧𝐤𝐢𝐧𝐠, 𝐚𝐧𝐝 𝐑𝐞𝐚𝐥 𝐄𝐬𝐭𝐚𝐭𝐞. My expertise spans machine learning (ML), deep learning (DL), natural language processing (NLP), large language models (LLM), and big data management. I have a proven track record of optimizing processes and delivering AI-driven insights that drive efficiency and performance.
+## 👨‍💻 About Me
+I am a Data Science Professional with 5 years of experience, passionate about leveraging data to solve real-world problems.
+I hold a Master’s in Data Analytics from Northeastern University.
+Currently, I am a Graduate Research Assistant Data Scientist at the Northeastern DATA Initiative, where I develop AI-driven solutions for impactful research projects.
 
-## About Me
+## 🧠 What I Bring to the Table
 
-- **Current Role**: Graduate Research Assistant Data Scientist at the Northeastern DATA Initiative
-- **Location**: Boston, Massachusetts, USA
-- **Interests**: Machine Learning, Data Science, Large Language Models, MLOps,  Deep Learning, Open-Source Projects
+- Expertise in Machine Learning and AI:
+  Designed and deployed ML and DL models that improved decision-making and efficiency.
+  Hands-on experience with NLP, Large Language Models (LLMs), and Generative AI.
 
+- Industry Experience:
+  Successfully implemented data science solutions in Insurance, Banking, and Real Estate domains.
+  Delivered AI-driven insights that transformed business operations and enhanced performance.
 
 ## 🛠️ Tools
 
 - **𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞:** Python, R, SQL, HTML, CSS
 - **𝐂𝐥𝐨𝐮𝐝 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬:** Azure, AWS
 - **𝐃𝐚𝐭𝐚 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 & 𝐁𝐈 𝐓𝐨𝐨𝐥𝐬:** Power BI, Tableau, R Shiny, Advanced Excel
-- **𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐁𝐢𝐠 𝐃𝐚𝐭𝐚 𝐓𝐨𝐨𝐥𝐬:** Databricks, Docker, Hadoop, Git, Jenkins, Kubernetes
-- **𝐌𝐋𝐎𝐩𝐬 𝐚𝐧𝐝 𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭:** Azure DevOps, Jenkins, Flask, FastAPI, Azure Data Factory, Azure App Services, Uvicorn Server, AzureML, MLflow 
+- **𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐁𝐢𝐠 𝐃𝐚𝐭𝐚 𝐓𝐨𝐨𝐥𝐬:** Databricks, Hadoop, Git, Pyspark, Azure Data Factory
+- **𝐌𝐋𝐎𝐩𝐬 𝐚𝐧𝐝 𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭:** Azure DevOps, Jenkins, Flask, FastAPI, Docker, Kubernetes, Azure App Services, Uvicorn Server, AzureML, MLflow 
+- **Gen AI Frameworks:** LlamaIndex, Langchain, Azure OpenAI, AI-Agents
 
 - **Certifications**:
   1. Databricks Generative AI
@@ -24,6 +30,17 @@ I have integrated machine learning models seamlessly into business operations ac
   3. Azure Fundamentals
   4. Gemini API by Google
   5. JPMorgan Chase – Investment Banking Job Simulation
+
+## 💼 Open to Roles
+
+I am actively looking for opportunities in:
+
+- Machine Learning Engineer
+- Data Scientist
+- AI Engineer
+- Generative AI Engineer
+- Machine Learning Researcher
+- Data Science Specialist
 
 ## 💬 Ask me about ...
 - Data Science, Machine Learning, and AI applications
