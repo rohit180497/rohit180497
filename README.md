@@ -17,9 +17,9 @@ Currently, I am a Graduate Research Assistant Data Scientist at the Northeastern
 
 ## 🛠️ Tools 🐳🤖🚢🌐🔄 🦙📚 🤗
 
-- **Programming Language** Python, R, SQL, HTML, CSS
+- **Programming Language** Python, R, Pytorch, SQL, HTML, CSS
 - **Cloud Platforms:** Azure, AWS
-- **Machine Learning & Deep Learning:** Regression, Classification, CNN, LSTM, RNN, Transformers, Pytorch
+- **Machine Learning & Deep Learning:** Regression, Classification, CNN, LSTM, RNN, Transformers
 - **Big Data Tools** Databricks, Hadoop, Pyspark, Azure Data Factory
 - **MLOps and Deployment:** Azure DevOps, Jenkins, Flask, FastAPI, Docker, Kubernetes, Azure App Services, AzureML, MLflow 
 - **Gen AI Frameworks:** LlamaIndex, Langchain, Azure OpenAI, AI-Agents, Hugging face
