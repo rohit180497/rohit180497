@@ -7,7 +7,16 @@
 
 
 
+<<<<<<< HEAD
 **I'm a Data Specialist and a Generative AI Enthusiast!🌟** 
+=======
+- **Programming Language** Python, R, Pytorch, SQL, HTML, CSS
+- **Cloud Platforms:** Azure, AWS
+- **Machine Learning & Deep Learning:** Regression, Classification, CNN, LSTM, RNN, Transformers
+- **Big Data Tools** Databricks, Hadoop, Pyspark, Azure Data Factory
+- **MLOps and Deployment:** Azure DevOps, Jenkins, Flask, FastAPI, Docker, Kubernetes, Azure App Services, AzureML, MLflow 
+- **Gen AI Frameworks:** LlamaIndex, Langchain, Azure OpenAI, AI-Agents, Hugging face
+>>>>>>> 2f59dee9dd0b3620550d42c4a0201dacfb981f52
 
 I am a **data science professional with 5 years of experience**, specializing in integrating machine learning models seamlessly into business operations across **Insurance, Banking, and Real Estate**.  
 
