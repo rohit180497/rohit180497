@@ -14,10 +14,10 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 __________________________________________________________________________________________________________________ 
 
 <p align="center">
-    <b><span style="color: #E63E62; font-size: 15px; font-family: 'Georgia', serif;">
-        I love meeting and knowing new people. Let's connect and discuss ideas ~ 🤓
-    </span></b>
+    <img src="https://img.shields.io/badge/I%20love%20meeting%20and%20knowing%20new%20people.%20Let's%20connect%20and%20discuss%20ideas%20~%20🤓-E63E62?style=for-the-badge&labelColor=white&color=E63E62" alt="Let's connect and discuss ideas">
 </p>
+
+
 
 
 <h3 align="left">📦 My Published Packages</h3>
