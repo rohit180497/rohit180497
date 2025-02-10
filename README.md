@@ -3,7 +3,7 @@
 
 ![](assets/header2.gif) 
 
-## **Hey there, I'm Rohit!**  <img src="https://media2.giphy.com/media/bcKmIWkUMCjVm/200.webp?cid=790b7611lcg1ccwxgskd2gi5bl03q1l8bx1ndo9lp57gmd5i&ep=v1_gifs_search&rid=200.webp&ct=g" width="70">
+## **Hey there, I'm Rohit!**  <img src="assets/hello.gif" alt="Hello" width="40">
 
 I am a **data science professional with 5 years of experience**, specializing in integrating machine learning models seamlessly into business operations across **Insurance, Banking, and Real Estate**.  
 
