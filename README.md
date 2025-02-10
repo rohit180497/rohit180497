@@ -14,7 +14,6 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 __________________________________________________________________________________________________________________
 
 <p align="center">
-    <br>
     <span style="color: #003366; font-size: 18px;">I love meeting and knowing new people. Let's connect and discuss ideas ~ 🤓</span>
 </p>
 
