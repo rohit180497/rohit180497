@@ -14,8 +14,11 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 __________________________________________________________________________________________________________________ 
 
 <p align="center">
-    <span style="color: #003366; font-size: 18px;">I love meeting and knowing new people. Let's connect and discuss ideas ~ 🤓</span>
+    <b><span style="color: #E63E62; font-size: 15px; font-family: 'Georgia', serif;">
+        I love meeting and knowing new people. Let's connect and discuss ideas ~ 🤓
+    </span></b>
 </p>
+
 
 <h3 align="left">📦 My Published Packages</h3>
 
