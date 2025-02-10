@@ -1,7 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit180497&label=Profile%20views&color=0e75b6&style=flat" alt="rohit180497" /> </p>
 
-![](assets/header.gif) 
+![](assets/header2.gif) 
 
 ## **Hey there, I'm Rohit!**  <img src="https://media2.giphy.com/media/bcKmIWkUMCjVm/200.webp?cid=790b7611lcg1ccwxgskd2gi5bl03q1l8bx1ndo9lp57gmd5i&ep=v1_gifs_search&rid=200.webp&ct=g" width="70">
 
@@ -10,8 +10,8 @@ I am a **data science professional with 5 years of experience**, specializing in
 I am originally from India but currently living and working in **Boston, USA**. 
 Taking one step at a time to be more mindful of my journey. You can find me here on <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img src="assets/linkedin.png" alt="LinkedIn" width="20" height="20">
-</a>to know more about me and my work.
-__________________________________________________________________________________________________________________
+</a> to know more about me and my work.
+__________________________________________________________________________________________________________________ 
 
 <p align="center">
     <span style="color: #003366; font-size: 18px;">I love meeting and knowing new people. Let's connect and discuss ideas ~ 🤓</span>
