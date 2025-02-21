@@ -1,7 +1,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit180497&label=Profile%20views&color=0e75b6&style=flat" alt="rohit180497" /> </p>
 
-Do Visit : www.rohitkosamkar.com
+<div align="center">
+  <h3>🌐 Do Visit: <a href="https://www.rohitkosamkar.com" target="_blank">www.rohitkosamkar.com</a></h3>
+</div>
 
 ![](assets/header2.gif) 
 
