@@ -30,11 +30,11 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________
 <h3 align="left">💼 Portfolio Projects </h3>
 
-🔹 <a href="https://github.com/rohit180497/Coffee-Shop-AI-Agents" target="_blank"><b>AI-Powered Coffee Shop- Chatbot Android Application</b></a> 
-🔹 <a href="https://github.com/rohit180497/Early-readmission-of-patients-in-hospital" target="_blank"><b>AI-Driven Healthcare Risk Assessment & Cloud Deployment</b></a>  
-🔹 <a href="https://github.com/rohit180497/Medicare-Claim-Fraud-Detection" target="_blank"><b>ML-Powered Fraudulent Claims Detection System with AWS Cloud</b></a> 
-🔹 <a href="https://github.com/rohit180497/Medical-ChatBot-BioMistral7B" target="_blank"><b>Medical ChatBot - BioMistral7B</b></a>  
-🔹 <a href="https://github.com/rohit180497/Video-To-QnA-RAG-Chatbot" target="_blank"><b>Multimodal Video Intelligence: AI Driven QnA System</b></a>
+🔹 <a href="https://github.com/rohit180497/Coffee-Shop-AI-Agents" target="_blank"><b>AI-Powered Coffee Shop- Chatbot Android Application</b></a> <br>  
+🔹 <a href="https://github.com/rohit180497/Early-readmission-of-patients-in-hospital" target="_blank"><b>AI-Driven Healthcare Risk Assessment & Cloud Deployment</b></a> <br>  
+🔹 <a href="https://github.com/rohit180497/Medicare-Claim-Fraud-Detection" target="_blank"><b>ML-Powered Fraudulent Claims Detection System with AWS Cloud</b></a> <br>  
+🔹 <a href="https://github.com/rohit180497/Medical-ChatBot-BioMistral7B" target="_blank"><b>Medical ChatBot - BioMistral7B</b></a> <br>  
+🔹 <a href="https://github.com/rohit180497/Video-To-QnA-RAG-Chatbot" target="_blank"><b>Multimodal Video Intelligence: AI Driven QnA System</b></a> <br>  
 🔹 <a href="https://github.com/rohit180497/NBFI-Loan-Repayment" target="_blank"><b>Scalable Loan Default Prediction with CI/CD & MLOps on Azure</b></a>
 
 __________________________________________________________________________________________________________________
