@@ -25,7 +25,7 @@ ________________________________________________________________________________
 <h3 align="left">📦 My Published Packages</h3>
 
 
-🔹 <a href="https://pypi.org/project/EDAExcelReport/" target="_blank"><b>EDAExcelReport</b></a> 🔹 <a href="https://pypi.org/project/MLEssentials/" target="_blank"><b>MLEssentials</b></a>  🔹 <a href="https://pypi.org/project/WebScrapingTool/" target="_blank"><b>WebScrapingTool</b></a>  
+🔹 <a href="https://pypi.org/project/EDAExcelReport/" target="_blank"><b>EDAExcelReport</b></a> 🔹 <a href="https://pypi.org/project/pydbmanager/" target="_blank"><b>PyDBManager</b></a>  🔹 <a href="https://pypi.org/project/MLEssentials/" target="_blank"><b>MLEssentials</b></a>  🔹 <a href="https://pypi.org/project/WebScrapingTool/" target="_blank"><b>WebScrapingTool</b></a>  
 
 __________________________________________________________________________________________________________________
 <h3 align="left">💼 Portfolio Projects </h3>
