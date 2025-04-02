@@ -27,6 +27,21 @@ ________________________________________________________________________________
 
 🔹 <a href="https://pypi.org/project/EDAExcelReport/" target="_blank"><b>EDAExcelReport</b></a> 🔹 <a href="https://pypi.org/project/pydbmanager/" target="_blank"><b>PyDBManager</b></a>  🔹 <a href="https://pypi.org/project/MLEssentials/" target="_blank"><b>MLEssentials</b></a>  🔹 <a href="https://pypi.org/project/WebScrapingTool/" target="_blank"><b>WebScrapingTool</b></a>  
 
+
+<h3 align="left">📦 Hackathon Project</h3>
+
+🔹 <a href="https://devpost.com/software/travelgenie-ai-agent" target="_blank"><b>TravelGenie AI-Agent</b></a>
+
+
+<h3 align="left">📦 AI-Agents on Agentverse</h3>
+
+
+🔹 <a href="https://agentverse.ai/agents/details/agent1qfetzztsmf373m7qa4x6l5mjveykecm87cu9m7myaxd7ukp0rwrjkkax9wt/profile" target="_blank"><b>Google API Route Agent</b></a> 
+🔹 <a href="https://agentverse.ai/agents/details/agent1q2zc0ctnxwyzd7xxgafwzwcd7tkzg7w790zjret9vwm2f38gmm5dv7wm22j/profile" target="_blank"><b>Weather Agent</b></a>  
+🔹 <a href="https://agentverse.ai/agents/details/agent1q0vj2jq0xe05zdukwnesaqvey0sve99gahvfp452yrlemtng8axzvcf8hq0/profile" target="_blank"><b>Google Places Agent</b></a>  
+🔹 <a href="https://agentverse.ai/agents/details/agent1qd3qj9wsjwdasgqu2w3gzwjgzc3cjx7pwdl26th3r67y46umgulwxu4emrg/profile" target="_blank"><b>Flight Search Agent</b></a>  
+🔹 <a href="https://agentverse.ai/agents/details/agent1qtcaxwkqgs0kgfmtsr90j9lcpjk3a7t3mtkf9sty8a07gdr0el6sjgkzy60/profile" target="_blank"><b>Restaurant Explorer Agent</b></a>  
+🔹 <a href="https://agentverse.ai/agents/details/agent1qvmkshe4kn3ucfsecd9d703jqzqy858z5l2unn9qye3y6dyvc5ph20zmqch/profile" target="_blank"><b>Event Explorer Agent</b></a>  
 __________________________________________________________________________________________________________________
 <h3 align="left">💼 Portfolio Projects </h3>
 
