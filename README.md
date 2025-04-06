@@ -9,7 +9,7 @@
 
 ## **Hey there, I'm Rohit!**  <img src="assets/hello.gif" alt="Hello" width="40">
 
-I am a **data science professional with 5 years of experience**, specializing in integrating machine learning models seamlessly into business operations across **Insurance, Banking, and Real Estate**.  
+I am a **data science professional with 5+ years of experience**, delivering end-to-end ML solutions across **Insurance, Banking, and Real Estate**. Proficient in **ML, DL, NLP, LLMs, and big data**, with expertise in model development, optimization, and scalable deployment. Adept at integrating AI into business workflows to drive automation, reduce costs, and support data-driven decision-making.
 
 I am originally from India but currently living and working in **Boston, USA**. 
 Taking one step at a time to be more mindful of my journey. You can find me here on <a href="https://www.linkedin.com/in/your-profile" target="_blank">
