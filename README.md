@@ -9,7 +9,7 @@
 
 ## **Hey there, I'm Rohit!**  <img src="assets/hello.gif" alt="Hello" width="40">
 
-I am a **data science professional with 5 years of experience**, specializing in integrating machine learning models seamlessly into business operations across **Insurance, Banking, and Real Estate**.  
+I am a **data science professional with 5+ years of experience**, delivering end-to-end ML solutions across **Insurance, Banking, and Real Estate**. Proficient in **ML, DL, NLP, LLMs, and big data**, with expertise in model development, optimization, and scalable deployment. Adept at integrating AI into business workflows to drive automation, reduce costs, and support data-driven decision-making.
 
 I am originally from India but currently living and working in **Boston, USA**. 
 Taking one step at a time to be more mindful of my journey. You can find me here on <a href="https://www.linkedin.com/in/your-profile" target="_blank">
@@ -37,7 +37,7 @@ ________________________________________________________________________________
 <h3 align="left">📦 AI-Agents on Agentverse</h3>
 
 
-🔹 <a href="https://agentverse.ai/agents/details/agent1qfetzztsmf373m7qa4x6l5mjveykecm87cu9m7myaxd7ukp0rwrjkkax9wt/profile" target="_blank"><b>Google API Route Agent</b></a> 
+🔹 <a href="https://agentverse.ai/agents/details/agent1qfetzztsmf373m7qa4x6l5mjveykecm87cu9m7myaxd7ukp0rwrjkkax9wt/profile" target="_blank"><b>Google API Route Agent</b></a>
 🔹 <a href="https://agentverse.ai/agents/details/agent1q2zc0ctnxwyzd7xxgafwzwcd7tkzg7w790zjret9vwm2f38gmm5dv7wm22j/profile" target="_blank"><b>Weather Agent</b></a>  
 🔹 <a href="https://agentverse.ai/agents/details/agent1q0vj2jq0xe05zdukwnesaqvey0sve99gahvfp452yrlemtng8axzvcf8hq0/profile" target="_blank"><b>Google Places Agent</b></a>  
 🔹 <a href="https://agentverse.ai/agents/details/agent1qd3qj9wsjwdasgqu2w3gzwjgzc3cjx7pwdl26th3r67y46umgulwxu4emrg/profile" target="_blank"><b>Flight Search Agent</b></a>  
