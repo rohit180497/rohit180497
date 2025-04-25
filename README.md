@@ -30,7 +30,8 @@ ________________________________________________________________________________
 
 <h3 align="left">📦 Hackathon Project</h3>
 
-🔹 <a href="https://devpost.com/software/travelgenie-ai-agent" target="_blank"><b>TravelGenie AI-Agent</b></a>
+1st Place – Global AI Agents League | Fetch.ai Nexus Award | $10,000 Winner | Devpost Hackathon
+🔹 <a href="https://devpost.com/software/travelgenie-ai-agent" target="_blank"><b>TravelGenie AI-Agent - </b></a>
 
 
 <h3 align="left">📦 AI-Agents on Agentverse</h3>
