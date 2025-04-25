@@ -32,6 +32,7 @@ ________________________________________________________________________________
 
 🏆 1st Place – Global AI Agents League | Fetch.ai Nexus Award | $10,000 Winner | Devpost Hackathon 
 </b>
+
 🔹 <a href="https://devpost.com/software/travelgenie-ai-agent" target="_blank"><b>TravelGenie AI-Agent </b></a>
 
 
