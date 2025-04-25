@@ -28,7 +28,7 @@ ________________________________________________________________________________
 🔹 <a href="https://pypi.org/project/EDAExcelReport/" target="_blank"><b>EDAExcelReport</b></a> 🔹 <a href="https://pypi.org/project/pydbmanager/" target="_blank"><b>PyDBManager</b></a>  🔹 <a href="https://pypi.org/project/MLEssentials/" target="_blank"><b>MLEssentials</b></a>  🔹 <a href="https://pypi.org/project/WebScrapingTool/" target="_blank"><b>WebScrapingTool</b></a>  
 
 
-<h3 align="left">📦 Hackathon Project</h3>
+<h3 align="left">📦 Hackathon Achievement</h3>
 
 🏆 1st Place – Global AI Agents League | Fetch.ai Nexus Award | $10,000 Winner | Devpost Hackathon 
 </b>
