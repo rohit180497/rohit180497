@@ -133,7 +133,7 @@ ________________________________________________________________________________
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit180497&" alt="rohit180497" /></p>
 
 ## ⚡ Fun fact:
--  When I'm not training models, I'm training my arms at the gym! I enjoy pushing my limits with weightlifting and staying strong both mentally and physically.
+-  When I'm not training models, I'm training my arms at the gym! I enjoy pushing my limits with weightlifting and staying strong both mentally and physically ;)
 
 
 <p align="left"> <a href="https://twitter.com/rohitkosamkar18" target="blank"><img src="https://img.shields.io/twitter/follow/rohitkosamkar18?logo=twitter&style=for-the-badge" alt="rohitkosamkar18" /></a> </p>
